@@ -6,7 +6,7 @@ excerpt: ''
 date: 2019-11-01
 venue: 'Statistical Science'
 paperurl: 'http://jrstew.github.io/files/stat_science.pdf'
-citation: 'Schweinberger, M., Krivitsky, P. N., Butts, C. T., and <b>Stewart, J.</b>.&quot;
+citation: 'Schweinberger, M., Krivitsky, P. N., Butts, C. T., and <b>Stewart, J.</b>. &quot;
 Exponential-Family Models of Random Graphs: Inference in Finite-, Super-, and Infinite-Population Scenarios
 &quot; <i>Statistical Science</i>, to appear (2019).'
 ---
@@ -20,6 +20,6 @@ Exponential-family Random Graph Models (ERGMs) constitute a broad statistical fr
 
 [Paper PDF](http://jrstew.github.io/files/stat_science.pdf)
 
-Recommended citation: <br><br>Schweinberger, M., Krivitsky, P. N., Butts, C. T., and <b>Stewart, J.</b>.&quot;
+Recommended citation: <br><br>Schweinberger, M., Krivitsky, P. N., Butts, C. T., and <b>Stewart, J.</b>. &quot;
 Exponential-Family Models of Random Graphs: Inference in Finite-, Super-, and Infinite-Population Scenarios
 &quot; <i>Statistical Science</i>, to appear (2019). 
