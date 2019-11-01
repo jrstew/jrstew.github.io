@@ -1,5 +1,5 @@
 ---
-title: "Characterizing hotspot HIV transmission networks""
+title: "Characterizing hotspot HIV transmission networks"
 collection: publications
 permalink: /publication/hiv
 excerpt: ''
