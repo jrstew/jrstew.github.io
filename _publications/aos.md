@@ -16,6 +16,6 @@ Statistical inference for exponential-family models of random graphs with depend
 
 
 
-[PAPER PDF](http://jrstew.github.io/files/aos.pdf)
+[Paper PDF](http://jrstew.github.io/files/aos.pdf)
 
 Recommended citation: <br><br>Schweinberger, M., and <b>Stewart, J.</b>.&quot;Concentration and consistency results for canonical and curved exponential-family models of random graphs&quot; <i>Annals of Statistics</i>, too appear (2019), 98-119.
