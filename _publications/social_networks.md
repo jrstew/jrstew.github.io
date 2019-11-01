@@ -13,6 +13,6 @@ Multilevel network data provide two important beneﬁts for ERG modeling. First,
 
 <b>Keywords:</b> multilevel network; social network; exponential-family random graph model; curved exponential-family random graph model.
 
-[PDF](http://jrstew.github.io/files/social_networks.pdf)
+[PAPER PDF](http://jrstew.github.io/files/social_networks.pdf)
 
 Recommended citation: <br><br><b>Stewart, J.</b>, Schweinberger, M., Morris, M., and Bojanowski, M. &quot;Multilevel network data facilitate statistical inference for curved ergms with geometrically weighted terms.&quot; <i>Social Networks</i>. 59 (2019), 98-119. 
