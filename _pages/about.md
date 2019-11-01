@@ -9,4 +9,5 @@ redirect_from:
 ---
 
 This is the academic page of Jonathan Stewart. 
+This site is under construction as I learn how to use it!
 
