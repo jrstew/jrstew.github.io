@@ -27,10 +27,11 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Software 
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>
+  <li><a href="https://cran.r-project.org/package=mlergm">mlergm</a> - Multilevel Exponential-Family Random Graph Models (Author, Creator, Maintainer)</li>
+  <li><a href="https://cran.r-project.org/package=hergm">hergm</a> - Hierarchical Exponential-Family Random Graph Models (Author)</li>
+</ul>
 
  
