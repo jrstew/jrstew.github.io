@@ -5,7 +5,7 @@ permalink: /publication/social_networks
 excerpt: ''
 date: 2019-10-31
 venue: 'Social Networks'
-paperurl: ''
+paperurl: 'http://jrstew.github.io/files/social_networks.pdf'
 citation: '<b>Stewart, J.</b>, Schweinberger, M., Morris, M., and Bojanowski, M. &quot;Multilevel network data facilitate statistical inference for curved ergms with geometrically weighted terms.&quot; <i>Social Networks</i>. 59 (2019), 98-119.'
 ---
 
