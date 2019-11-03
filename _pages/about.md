@@ -9,5 +9,9 @@ redirect_from:
 ---
 
 This is the academic page of Jonathan Stewart. 
-This site is under construction as I learn how to use it!
+
+I am a PhD student in the Department of Statistics at Rice University. 
+My research is on networks and statistical network analysis.
+I am interested in understanding how to better model depenent network data.  
+
 
