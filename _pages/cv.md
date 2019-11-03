@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV - <a href='http://jrstew.github.io/files/cv.pdf/'>[PDF]</a>"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<br>
+A PDF of my CV can be found <a href="http://jrstew.github.io/files/cv.pdf/">[HERE]</a>.
 
 Education
 ======
