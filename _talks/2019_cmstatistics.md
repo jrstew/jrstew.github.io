@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2019cmstatistics
 venue: "2019 CMStatistics"
-date: 2019-12-01
+date: 2019-12-15
 location: "London, UK"
 ---
 

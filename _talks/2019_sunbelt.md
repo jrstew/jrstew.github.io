@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2019sunbelt
 venue: "International Sunbelt Social Network Conference"
-date: 2019-07-01
+date: 2019-06-22
 location: "Montreal, CA"
 ---
 
