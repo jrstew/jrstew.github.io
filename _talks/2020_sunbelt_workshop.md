@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2020sunbeltworkshop
 venue: "International Sunbelt Social Network Conference"
-date: 
+date: 2012-06-02
 location: "Paris, FR"
 ---
 
