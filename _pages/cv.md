@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF of my CV can be found <a href="http://jrstew.github.io/files/cv.pdf/">[HERE]</a>.
+A PDF of my CV can be found <a href="https://jrstew.github.io/files/cv.pdf">[HERE]</a>.
 
 Education
 ======
