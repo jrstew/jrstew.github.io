@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV - <a href="http://jrstew.github.io/files/cv.pdf">[PDF]</a>"
 permalink: /cv/
 author_profile: true
 redirect_from:
