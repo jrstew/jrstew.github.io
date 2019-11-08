@@ -11,11 +11,12 @@ redirect_from:
 This is the academic page of Jonathan Stewart. 
 
 I am a PhD student in the Department of Statistics at Rice University. 
-My research is on networks and statistical network analysis.
-I am interested in dependent network data,
-that is networks with edge dependencies, 
-and seek to better understand how to model networks with edge dependence 
-and carry out statistical inference on such networks.  
+My research is on dependent data with applications to network data. 
+I am interested in understanding 
+how to model dependent data for complex structures in order to obtain
+tractable computational methods and desirable statistical theory in order to facilitate and validate
+meaningful statistical inference.
+
 
 I have studied applications to social networks, brain networks, and HIV / public health. 
 My research has been published in both statistical journals and network science journals, 
