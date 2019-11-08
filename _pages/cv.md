@@ -43,7 +43,7 @@ Multilevel network data facilitate statistical inference for curved ergms with g
 Campbell, I. M., <b>Stewart, J. R.</b>, James, R. A., Lupski, J. R., Stankiewicz, P., Olofsson, P., and Shaw, C. A.
 Parent of origin, mosaicism, and recurrence risk: Probabilistic modeling explains the broken symmetry of transmission genetics.
 <i>The American Journal of Human Genetics</i>, 95 (4) (2014), 345-359.
-<a href="https://jrstew.github.io/files/ajmg.pdf">[PDF]</a>
+<a href="https://jrstew.github.io/files/ajhg.pdf">[PDF]</a>
 </li>
 </ol>
 
@@ -100,6 +100,7 @@ Travel Award, Department of Statistics, Rice University
 <i>Funding to attend and present at the 2019 INSNA Sunbelt conference in Montreal</i>
 </li>
 </ol>
+
 
  
 Software 
