@@ -5,7 +5,7 @@ permalink: /publication/ajmg
 excerpt: ''
 date: 2019-11-01
 venue: 'The American Journal of Human Genetics'
-paperurl: 'http://jrstew.github.io/files/ajmg.pdf'
+paperurl: 'http://jrstew.github.io/files/ajhg.pdf'
 citation: 'Campbell, I. M., <b>Stewart, J. R.</b>, James, R. A., Lupski, J. R., Stankiewicz, P., Oloffson, P., and Shaw, C. A. &quot;Parent of origin, mosaicism, and recurrence risk: Probabilistic modeling explains the broken symmetry of transmission genetics&quot; <i>The American Journal of Human Genetics</i>, 95 (4) (2014), 345-359. <a href="http://jrstew.github.io/files/ajmg.pdf">[PDF]</a>'
 ---
 
@@ -13,7 +13,7 @@ Most new mutations are observed to arise in fathers, and increasing paternal age
 
 
 
-[Paper PDF](http://jrstew.github.io/files/ajmg.pdf)
+[Paper PDF](http://jrstew.github.io/files/ajhg.pdf)
 
 
 Recommended citation:<br><br>Campbell, I. M., <b>Stewart, J. R.</b>, James, R. A., Lupski, J. R., Stankiewicz, P., Oloffson, P., and Shaw, C. A. &quot;Parent of origin, mosaicism, and recurrence risk: Probabilistic modeling explains the broken symmetry of transmission genetics&quot; <i>The American Journal of Human Genetics</i>, 95 (4) (2014), 345-359. 
