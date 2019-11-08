@@ -64,10 +64,44 @@ Characterizing hotspot HIV transmission networks, in preparation (2019+).
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+<ol>
+<li>
+2019 International Conference on Computational and Methodological Statistics (CMStatistics), London, UK<br>
+<i>Generalized β-models with dependent edges and parameter vectors of increasing dimension</i>
+</li>
+<li>
+2019 International Sunbelt Social Network Conference, Montreal, CA<br>
+<i>Multilevel ERGMs with overlapping subsets of nodes: models, methods, and statistical theory</i>
+</li>
+<li>
+2012 Joint Statistical Meeting (JSM), Section on Statistical Graphics, San Diego<br>
+<i>Graphical inference and the hanging rootogram</i>
+</li>
+</ol>
+
+
+Awards
+=======
+<ol>
+<li>
+2019 Recipient of the James R. Thompson Student Award<br>
+<i>Awarded annually to up to two PhD students in the Department of Statistics at Rice University for excellence in research</i>
+</li>
+<li>
+Travel Award, Department of Statistics, Rice University<br>
+<i>Funding to attend and present at the 2019 CMStatistics conference</i>
+</li>
+<li>
+Travel Award, International Network for Social Network Analysis 
+<i>Funding to attend and present at the 2019 INSNA Sunbelt conference in Montreal</i>
+</li>
+<li>
+Travel Award, Department of Statistics, Rice University 
+<i>Funding to attend and present at the 2019 INSNA Sunbelt conference in Montreal</i>
+</li>
+</ol>
+
+ 
 Software 
 ======
 <ul>
