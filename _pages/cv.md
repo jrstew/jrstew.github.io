@@ -92,11 +92,11 @@ Travel Award, Department of Statistics, Rice University<br>
 <i>Funding to attend and present at the 2019 CMStatistics conference</i>
 </li>
 <li>
-Travel Award, International Network for Social Network Analysis 
+Travel Award, International Network for Social Network Analysis<br>
 <i>Funding to attend and present at the 2019 INSNA Sunbelt conference in Montreal</i>
 </li>
 <li>
-Travel Award, Department of Statistics, Rice University 
+Travel Award, Department of Statistics, Rice University<br>
 <i>Funding to attend and present at the 2019 INSNA Sunbelt conference in Montreal</i>
 </li>
 </ol>
