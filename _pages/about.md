@@ -20,6 +20,6 @@ meaningful statistical inference.
 
 I have studied applications to social networks, brain networks, and HIV / public health. 
 My research has been published in both statistics journals and network science journals, 
-and my software is avaiable as an R package from CRAN. 
+and my software is available as an R package from CRAN. 
 
 
