@@ -62,9 +62,14 @@ Characterizing hotspot HIV transmission networks, in preparation (2019+).
 </ol>
 
   
-Talks
+Talks and workshops 
 ======
 <ol>
+<li>
+2020 Co-organizer, Workshop on Multilevel and Hierarchical Exponential-Family Random Graph Models with Local Dependence<br>
+International Sunbelt Social Networks Conference, Paris, France<br>
+Required by NSF award DMS-1812119
+</li>
 <li>
 2019 International Conference on Computational and Methodological Statistics (CMStatistics), London, UK<br>
 <i>Generalized β-models with dependent edges and parameter vectors of increasing dimension</i>
