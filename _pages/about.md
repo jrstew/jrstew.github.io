@@ -20,7 +20,7 @@ tractable computational methods and desirable statistical guarantees and theory.
 
 
 I have studied applications to social networks, brain networks, and HIV / public health. 
-My research has been published in both statistics journals and network science journals, 
+My research has been published in both top statistics journals and network science journals, 
 and my software is available as an R package from CRAN. 
 
 
