@@ -61,15 +61,31 @@ Characterizing hotspot HIV transmission networks, in preparation (2020+).
 </li>
 </ol>
 
-  
-Talks and workshops 
-======
+
+Invited talks
+=======
 <ol>
 <li>
-2020 Co-organizer, Workshop on Multilevel and Hierarchical Exponential-Family Random Graph Models with Local Dependence<br>
-International Sunbelt Social Networks Conference, Paris, France<br>
-Required by NSF award DMS-1812119
+2020 Joint Statistical Meetings, Philadelphia, PA, <i>to be given</i><br>
+<i>A Probabilistic Framework for Models of Dependent Network Data, with applications to brokerage in social networks</i>
 </li>
+<li>
+2020 Department of Statistics and Data Science, Cornell University, Ithaca, NY<br>
+<i>A Probabilistic Framework for Models of Dependent Network Data, with Statistical Guarantees</i>
+</li>
+<li>
+2020 Department of Statistical Science, Southern Methodist University, Dallas, TX<br>
+<i>A Probabilistic Framework for Models of Dependent Network Data, with Statistical Guarantees</i>
+</li>
+<li>
+2020 Department of Statistics, Florida State University, Tallahassee, FL<br>
+<i>A Probabilistic Framework for Models of Dependent Network Data, with Statistical Guarantees</i>
+</li>
+</ol> 
+  
+Contributed talks
+======
+<ol>
 <li>
 2019 International Conference on Computational and Methodological Statistics (CMStatistics), London, UK<br>
 <i>Generalized β-models with dependent edges and parameter vectors of increasing dimension</i>
@@ -81,6 +97,16 @@ Required by NSF award DMS-1812119
 <li>
 2012 Joint Statistical Meeting (JSM), Section on Statistical Graphics, San Diego<br>
 <i>Graphical inference and the hanging rootogram</i>
+</li>
+</ol>
+
+Workshops 
+=======
+<ol>
+<li>
+2020 Co-organizer, Workshop on Multilevel and Hierarchical Exponential-Family Random Graph Models with Local Dependence,<i>to be given</i><br>
+International Sunbelt Social Networks Conference, Paris, France<br>
+Required by NSF award DMS-1812119
 </li>
 </ol>
 
