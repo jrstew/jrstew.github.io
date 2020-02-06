@@ -13,9 +13,9 @@ A PDF of my CV can be found <a href="https://jrstew.github.io/files/cv.pdf">[HER
 
 Education
 ======
-* B.A. in Statistics, Rice University, 2013
-* M.A. in Statisttics, Rice University, 2018
 * Ph.D in Statistics, Rice University, 2020 (expected)
+* M.A. in Statisttics, Rice University, 2018
+* B.A. in Statistics, Rice University, 2013
 
 
 Published papers and papers in press
