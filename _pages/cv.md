@@ -104,7 +104,7 @@ Workshops
 =======
 <ol>
 <li>
-2020 Co-organizer, Workshop on Multilevel and Hierarchical Exponential-Family Random Graph Models with Local Dependence,<i>to be given</i><br>
+2020 Co-organizer, Workshop on Multilevel and Hierarchical Exponential-Family Random Graph Models with Local Dependence, <i>to be given</i><br>
 International Sunbelt Social Networks Conference, Paris, France<br>
 Required by NSF award DMS-1812119
 </li>
