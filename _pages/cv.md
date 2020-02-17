@@ -70,6 +70,10 @@ Invited talks
 <i>A Probabilistic Framework for Models of Dependent Network Data, with applications to brokerage in social networks</i>
 </li>
 <li>
+2020 Department of Mathematics, Tulane University, New Orleans, LA<br>
+<i>A Probabilistic Framework for Models of Dependent Network Data, with Statistical Guarantees</i>
+</li>
+<li>
 2020 Department of Statistics and Data Science, Cornell University, Ithaca, NY<br>
 <i>A Probabilistic Framework for Models of Dependent Network Data, with Statistical Guarantees</i>
 </li>
