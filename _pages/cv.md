@@ -104,18 +104,6 @@ Contributed talks
 </li>
 </ol>
 
-Workshops 
-=======
-<ol>
-<li>
-2020 Workshop on Multilevel and Hierarchical Exponential-Family Random Graph Models with Local Dependence<br>
-International Sunbelt Social Networks Conference, Paris, France<br>
-Co-organizer, <i>to be given</i><br>
-Required by NSF award DMS-1812119
-</li>
-</ol>
-
-
 Awards
 =======
 <ol>
@@ -134,6 +122,18 @@ Travel Award, International Network for Social Network Analysis<br>
 <li>
 Travel Award, Department of Statistics, Rice University<br>
 <i>Funding to attend and present at the 2019 INSNA Sunbelt conference in Montreal</i>
+</li>
+</ol>
+
+
+Workshops 
+=======
+<ol>
+<li>
+2020 Workshop on Multilevel and Hierarchical Exponential-Family Random Graph Models with Local Dependence<br>
+International Sunbelt Social Networks Conference, Paris, France<br>
+Co-organizer, <i>to be given</i><br>
+Required by NSF award DMS-1812119
 </li>
 </ol>
 
