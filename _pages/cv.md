@@ -24,7 +24,7 @@ Published papers and papers in press
 <li>
 Schweinberger, M. and <b>Stewart, J.</b>
 Concentration and consistency results for canonical and curved exponential-family models of random graphs.
-<i>The Annals of Statistics</i>, to appear (2020+).
+<i>The Annals of Statistics</i>, 48 (2020), 374-396.
 <a href="https://jrstew.github.io/files/aos.pdf">[PDF]</a>
 </li>
 <li>
