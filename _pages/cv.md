@@ -22,16 +22,16 @@ Published papers and papers in press
 ======
 <ol>
 <li>
-Schweinberger, M. and <b>Stewart, J.</b>
-Concentration and consistency results for canonical and curved exponential-family models of random graphs.
-<i>The Annals of Statistics</i>, 48 (2020), 374-396.
-<a href="https://jrstew.github.io/files/aos.pdf">[PDF]</a>
-</li>
-<li>
 Schweinberger, M., Krivitsky, P., Butts, C., T., and <b>Stewart, J.</b>
 Exponential-family models of random graphs: Inference in finite-, super-, and infinite-population scenarios.
 <i>Statistical Science</i>, to appear (2020+).
 <a href="https://jrstew.github.io/files/stat_science.pdf">[PDF]</a>
+</li>
+<li>
+Schweinberger, M. and <b>Stewart, J.</b>
+Concentration and consistency results for canonical and curved exponential-family models of random graphs.
+<i>The Annals of Statistics</i>, 48 (2020), 374-396.
+<a href="https://jrstew.github.io/files/aos.pdf">[PDF]</a>
 </li>
 <li>
 <b>Stewart, J.</b>, Schweinberger, M., Morris, M., and Bojanowski, M.
