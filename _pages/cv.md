@@ -47,6 +47,15 @@ Parent of origin, mosaicism, and recurrence risk: Probabilistic modeling explain
 </li>
 </ol>
 
+Papers under review
+===========
+<ol>
+<li>
+Babkin, S., <b> Stewart, J.</b>, Long, X., and Schweinberger, M. 
+Large-scale estimation of random graph models with local dependence.
+Computational Statistics and Data Analysis, <i>invited revision</i>, (2020+).
+</li>
+</ol>
 
 Papers in preparation
 ===========
