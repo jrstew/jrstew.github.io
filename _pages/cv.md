@@ -139,6 +139,7 @@ Workshops
 =======
 <ol>
 <li>
+<b>Cancelled due to COVID</b><br>
 2020 Workshop on Multilevel and Hierarchical Exponential-Family Random Graph Models with Local Dependence<br>
 International Sunbelt Social Networks Conference, Paris, France<br>
 Co-organizer, <i>to be given</i><br>
