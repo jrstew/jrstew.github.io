@@ -13,7 +13,7 @@ A PDF of my CV can be found <a href="https://jrstew.github.io/files/cv.pdf">[HER
 
 Education
 ======
-* Ph.D in Statistics, Rice University, 2020 (expected)
+* Ph.D in Statistics, Rice University, 2020 
 * M.A. in Statisttics, Rice University, 2018
 * B.A. in Statistics, Rice University, 2013
 
@@ -26,6 +26,13 @@ Schweinberger, M., Krivitsky, P., Butts, C., T., and <b>Stewart, J.</b>
 Exponential-family models of random graphs: Inference in finite-, super-, and infinite-population scenarios.
 <i>Statistical Science</i>, to appear (2020+).
 <a href="https://jrstew.github.io/files/stat_science.pdf">[PDF]</a>
+</li>
+<li>
+<b>Stewart, J.</b>
+Consistent estimation of high-dimensional random graph models with dependent edge variables.
+Ph.D. Thesis, 
+<i>Rice University</i>, 
+(2020).  
 </li>
 <li>
 Schweinberger, M. and <b>Stewart, J.</b>
