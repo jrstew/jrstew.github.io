@@ -120,7 +120,7 @@ Contributed talks
 </li>
 </ol>
 
-Awards
+Honors
 =======
 <ol>
 <li>
