@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jonathan Stewart"
+title                    : "Jonathan Stewart, Ph.D."
 title_separator          : "-"
-name                     : &name "Jonathan Stewart"
-description              : &description "I am a PhD in the Department of Statistics at Rice University."
+name                     : &name "Jonathan Stewart, Ph.D."
+description              : &description ""
 url                      : https://jrstew.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jrstew.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jonathan Stewart"
+  name             : "Jonathan Stewart, Ph.D."
   avatar           : "profile.png"
-  bio              : "Statistician"
+  bio              : ""
   location         : "Houston, TX"
   employer         :
   pubmed           : 
