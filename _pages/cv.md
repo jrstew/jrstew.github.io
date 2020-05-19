@@ -60,7 +60,7 @@ Papers under review
 <li>
 Babkin, S., <b> Stewart, J.</b>, Long, X., and Schweinberger, M. 
 Large-scale estimation of random graph models with local dependence.
-Computational Statistics and Data Analysis, <i>invited revision</i>, (2020+).
+Computational Statistics and Data Analysis, <i>invited revision</i> (2020+).
 </li>
 </ol>
 
