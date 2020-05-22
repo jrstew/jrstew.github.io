@@ -130,7 +130,7 @@ Inaugural winner of the 2019 James R. Thompson Student Award, Rice University<br
 </li>
 <li>
 Travel Award, Department of Statistics, Rice University<br>
-<i>Funding to attend and present at the 2019 CMStatistics conference</i>
+<i>Funding to attend and present at the 2019 CMStatistics conference in London</i>
 </li>
 <li>
 Travel Award, International Network for Social Network Analysis<br>
