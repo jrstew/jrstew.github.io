@@ -126,7 +126,7 @@ Honors
 <ol>
 <li>
 Inaugural winner of the 2019 James R. Thompson Student Award, Rice University<br>
-<i>Awarded annually to up to two PhD students in the Department of Statistics for excellence in research</i>
+<i>Awarded annually to up to two Ph.D. students in the Department of Statistics for excellence in research</i>
 </li>
 <li>
 Travel Award, Department of Statistics, Rice University<br>
