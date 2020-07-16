@@ -98,15 +98,15 @@ Invited talks
 2020 Department of Statistics, Florida State University, Tallahassee, FL<br>
 <i>A Probabilistic Framework for Models of Dependent Network Data, with Statistical Guarantees</i>
 </li>
+<li>
+2019 International Conference on Computational and Methodological Statistics (CMStatistics), London, UK<br>
+<i>Generalized β-models with dependent edges and parameter vectors of increasing dimension</i>
+</li>
 </ol> 
   
 Contributed talks
 ======
 <ol>
-<li>
-2019 International Conference on Computational and Methodological Statistics (CMStatistics), London, UK<br>
-<i>Generalized β-models with dependent edges and parameter vectors of increasing dimension</i>
-</li>
 <li>
 2019 International Sunbelt Social Network Conference, Montreal, CA<br>
 <i>Multilevel ERGMs with overlapping subsets of nodes: models, methods, and statistical theory</i>
