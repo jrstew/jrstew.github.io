@@ -11,6 +11,12 @@ redirect_from:
 
 A PDF of my CV can be found <a href="https://jrstew.github.io/files/cv.pdf">[HERE]</a>.
 
+
+Employment
+======
+* Aug. 2020 - Present, Assistant Professor (tenure-track), Department of Statistics, Florida State University
+
+
 Education
 ======
 * Ph.D in Statistics, Rice University, 2020 
