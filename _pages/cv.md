@@ -14,7 +14,7 @@ A PDF of my CV can be found <a href="https://jrstew.github.io/files/cv.pdf">[HER
 
 Employment
 ======
-* Aug. 2020 - Present, Assistant Professor (tenure-track), Department of Statistics, Florida State University
+* (Aug. 2020 - Present) Assistant Professor (tenure-track), Department of Statistics, Florida State University
 
 
 Education
