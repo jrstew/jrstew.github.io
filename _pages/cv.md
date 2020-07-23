@@ -19,9 +19,9 @@ Employment
 
 Education
 ======
-* Ph.D in Statistics, Rice University, 2020 
-* M.A. in Statisttics, Rice University, 2018
-* B.A. in Statistics, Rice University, 2013
+* Ph.D., in Statistics, Rice University, 2020 
+* M.A., in Statisttics, Rice University, 2018
+* B.A., in Statistics, Rice University, 2013
 
 
 Published papers and papers in press
