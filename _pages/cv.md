@@ -85,7 +85,7 @@ Invited talks
 =======
 <ol>
 <li>
-2020 Joint Statistical Meetings, Philadelphia, PA, <i>to be given</i><br>
+2020 Joint Statistical Meetings, delivered virtually, <i>to be given</i><br>
 <i>A Probabilistic Framework for Models of Dependent Network Data, with applications to brokerage in social networks</i>
 </li>
 <li>
