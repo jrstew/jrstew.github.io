@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I will be joining the Department of Statistics at Florida State University as an Assistant Professor (tenure-track) 
-in the Fall of 2020. 
+I am an Assistant Professor in the Department of Statistics at Florida State University. 
 
 My research focuses on statistical models and theory for dependent data with applications to network data,
 and interests lying broadly in the field of statistical network analysis. 
