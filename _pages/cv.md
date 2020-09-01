@@ -71,7 +71,7 @@ Papers in preparation
 <ol>
 <li>
 <b>Stewart, J.</b> and Schweinberger, M.
-Scalable inference for random graphs with dependent edges in high-dimensional settings using pseudolikelihood,
+Scalable estimation of random graph models with dependent edges and parameter vectors of increasing dimension using the pseudolikelihood. 
 in preparation (2020+).
 </li>
 <li>
