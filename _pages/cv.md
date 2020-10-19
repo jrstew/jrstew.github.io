@@ -85,6 +85,10 @@ Invited talks
 =======
 <ol>
 <li>
+2020 International Conference on Computational and Methodological Statistics (CMStatistics), <i>virtual</i><br>
+<i>Maximum pseudolikelihood estimation for models of social network data</i> 
+</li>
+<li>
 2020 Department of Statistics, Florida State University, Tallahassee, FL <br>
 <i>Scalable and consistent estimation of random graph models using the pseudolikelihood</i>
 </li>
