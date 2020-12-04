@@ -35,7 +35,7 @@ Large-scale estimation of random graph models with local dependence.
 <li>
 Schweinberger, M., Krivitsky, P., Butts, C., T., and <b>Stewart, J.</b>
 Exponential-family models of random graphs: Inference in finite-, super-, and infinite-population scenarios.
-<i>Statistical Science</i>, to appear (2020+).
+<i>Statistical Science</i>, 35 (4) (2020), 627-662.
 <a href="https://jrstew.github.io/files/stat_science.pdf">[PDF]</a>
 </li>
 <li>
