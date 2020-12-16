@@ -30,7 +30,7 @@ Published papers and papers in press
 <li>
 Babkin, S., <b> Stewart, J.</b>, Long, X., and Schweinberger, M.
 Large-scale estimation of random graph models with local dependence.
-<i>Computational Statistics and Data Analysis</i>, to appear (2020+).
+<i>Computational Statistics and Data Analysis</i>, to appear (2020).
 </li>
 <li>
 Schweinberger, M., Krivitsky, P., Butts, C., T., and <b>Stewart, J.</b>
@@ -72,7 +72,7 @@ Papers in preparation
 <li>
 <b>Stewart, J.</b> and Schweinberger, M.
 Scalable estimation of random graph models with dependent edges and parameter vectors of increasing dimension using the pseudolikelihood. 
-in preparation (2020+).
+in preparation (2020+). <a href="https://jrstew.github.io/files/pl.pdf">[Preprint]</a>
 </li>
 <li>
 Fujimoto, K., <b>Stewart, J.</b>, Westherim, J., Brauchle, N., Hallmark, C., Benbow, N., D&#39;Aquila, R., Schneider, J.A., Schweinberger, M.
