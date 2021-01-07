@@ -30,7 +30,8 @@ Published papers and papers in press
 <li>
 Babkin, S., <b> Stewart, J.</b>, Long, X., and Schweinberger, M.
 Large-scale estimation of random graph models with local dependence.
-<i>Computational Statistics and Data Analysis</i>, to appear (2020).
+<i>Computational Statistics and Data Analysis</i>, (2020), 107029.
+<a href="https://jrstew.github.io/files/csda.pdf">[PDF]</a>
 </li>
 <li>
 Schweinberger, M., Krivitsky, P., Butts, C., T., and <b>Stewart, J.</b>
