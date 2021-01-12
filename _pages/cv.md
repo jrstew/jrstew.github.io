@@ -72,7 +72,7 @@ Papers in preparation
 <ol>
 <li>
 <b>Stewart, J. R.</b> and Schweinberger, M.
-Pseudo-likelihood-based-estimation of random graphs with dependent edges and parameter vectors of increasing dimension,  
+Pseudo-likelihood-based M-estimation of random graphs with dependent edges and parameter vectors of increasing dimension,  
 in preparation (2021+). <a href="https://jrstew.github.io/files/pl.pdf">[Preprint]</a>
 </li>
 <!-- <li>
