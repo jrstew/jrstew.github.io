@@ -28,19 +28,19 @@ Published papers and papers in press
 ======
 <ol>
 <li>
-Babkin, S., <b> Stewart, J.</b>, Long, X., and Schweinberger, M.
+Babkin, S., <b> Stewart, J. R.</b>, Long, X., and Schweinberger, M.
 Large-scale estimation of random graph models with local dependence.
 <i>Computational Statistics and Data Analysis</i>, (2020), 107029.
 <a href="https://jrstew.github.io/files/csda.pdf">[PDF]</a>
 </li>
 <li>
-Schweinberger, M., Krivitsky, P., Butts, C., T., and <b>Stewart, J.</b>
+Schweinberger, M., Krivitsky, P., Butts, C., T., and <b>Stewart, J. R.</b>
 Exponential-family models of random graphs: Inference in finite-, super-, and infinite-population scenarios.
 <i>Statistical Science</i>, 35 (4) (2020), 627-662.
 <a href="https://jrstew.github.io/files/stat_science.pdf">[PDF]</a>
 </li>
 <li>
-<b>Stewart, J.</b>
+<b>Stewart, J. R.</b>
 Consistent estimation of high-dimensional random graph models with dependent edge variables.
 Ph.D. Thesis, 
 <i>Rice University</i>, 
