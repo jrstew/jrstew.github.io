@@ -67,7 +67,7 @@ Parent of origin, mosaicism, and recurrence risk: Probabilistic modeling explain
 </ol>
 
 
-Papers in preparation
+Submitted papers 
 ===========
 <ol>
 <li>
