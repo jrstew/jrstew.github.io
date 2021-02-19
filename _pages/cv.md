@@ -86,6 +86,9 @@ Characterizing hotspot HIV transmission networks, in preparation (2020+).
 Invited talks
 =======
 <ol>
+<li>2021 Department of Mathematics, University of Maryland, delivered virtually<br>
+<i>Scalable estimation of random graph models with dependent edges and increasing numbers of parameters</i>
+</li>
 <li>
 2020 International Conference on Computational and Methodological Statistics (CMStatistics), <i>virtual</i><br>
 <i>Maximum pseudolikelihood estimation for models of social network data</i> 
