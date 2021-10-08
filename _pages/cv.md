@@ -92,11 +92,11 @@ Honors
 <li>
 <b>Travel Award</b>, SRCOS Summer Research Conference
 </li>
-</li>
+<li>
 <b>James R. Thompson Student Award</b>, Department of Statistics, Rice University
 </li>
 <li>
-</b>Travel Award</b>, International Network for Social Network Analysts
+<b>Travel Award</b>, International Network for Social Network Analysts
 </li>
 </ol>
 
