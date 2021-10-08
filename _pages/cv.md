@@ -83,6 +83,22 @@ Characterizing hotspot HIV transmission networks, in preparation (2020+).
 </ol>
 
 
+Honors
+=========
+<ol>
+<li>
+<b>2021 Kutner New Faculty Poster Session Award</b>, SRCOS Summer Research Conference
+</li>
+<li>
+<b>Travel Award</b>, SRCOS Summer Research Conference
+</li>
+</li>
+<b>James R. Thompson Student Award</b>, Department of Statistics, Rice University
+</li>
+<li>
+</b>Travel Award</b>, International Network for Social Network Analysts
+</li>
+</ol>
 
  
 Software 
