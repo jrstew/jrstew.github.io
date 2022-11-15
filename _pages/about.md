@@ -23,7 +23,8 @@ and my software is available as an R package from CRAN.
 
 Employment
 ======
-* (Aug. 2020 - Present) Assistant Professor (tenure-track), Department of Statistics, Florida State University
+* (Aug. 2020 - Present) Assistant Professor (tenure-track)<br> 
+Department of Statistics, Florida State University
 
 
 Education
