@@ -104,7 +104,7 @@ in preparation (2022+).
   
 
 
-
+A PDF of my CV can be found <a href="https://jrstew.github.io/files/cv.pdf">[HERE]</a>.
 
 
 
