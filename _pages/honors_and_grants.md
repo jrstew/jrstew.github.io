@@ -14,7 +14,7 @@ and the Southern Regional Council on Statistics (SRCOS).
 
 Grant Support 
 ======
-<ol>
+<ul>
 <li>
 (Co-PI) 2022-2026. iAir Force Office of Scientific Research (AFOSR). 
 <i>High dimensional process monitoring</i> (PI: E Chicken, FSU). 
@@ -28,12 +28,12 @@ Committee on Faculty Research Support Award, Florida State University.
 (PI) 2021-2022. First Year Assistant Professor Award, Florida State University. 
 <i>Subgraph-to-graph estimation and inference for sampled network data</i>
 </li>
-</ol>
+</ul>
 
 
 Honors
 =========
-<ol>
+<ul>
 <li>
 <b>2021 Kutner New Faculty Poster Session Award</b>, SRCOS Summer Research Conference
 </li>
@@ -46,6 +46,6 @@ Honors
 <li>
 <b>Travel Award</b>, International Network for Social Network Analysts
 </li>
-</ol>
+</ul>
 
 
