@@ -63,7 +63,7 @@ Parent of origin, mosaicism, and recurrence risk: Probabilistic modeling explain
 
 Papers under review
 ===========
-<ol>
+<ol start="7">
 <li>
 <b>Stewart, J. R.</b> and Schweinberger, M.
 Pseudo-likelihood-based M-estimation of random graphs with dependent edges and parameter vectors of increasing dimension,
@@ -84,7 +84,7 @@ under review (2022+).
 
 Papers in preparation 
 ========
-<ol> 
+<ol start="10"> 
 <li>
 <b>Stewart, J. R.</b>.
 Estimating random graph models from observed subgraphs, 
