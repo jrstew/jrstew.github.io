@@ -75,11 +75,6 @@ Preprints
 Pseudo-likelihood-based M-estimation of random graphs with dependent edges and parameter vectors of increasing dimension,  
 submitted (2021+). <a href="https://jrstew.github.io/files/pl.pdf">[Preprint]</a>
 </li>
-<!-- <li>
-Fujimoto, K., <b>Stewart, J.</b>, Westherim, J., Brauchle, N., Hallmark, C., Benbow, N., D&#39;Aquila, R., Schneider, J.A., Schweinberger, M.
-Characterizing hotspot HIV transmission networks, in preparation (2020+).
-</li>
--->
 </ol>
 
 
