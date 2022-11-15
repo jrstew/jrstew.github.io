@@ -5,6 +5,8 @@ main:
     url: /cv/
   - title: "Research"
     url: /research/
+  - title: "Honors and Grant Support" 
+    url: /honors_and_grants/
   - title: "Software"
     url: /software/
 
