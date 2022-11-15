@@ -26,3 +26,22 @@ First Year Assistant Professor Award, Florida State University<br>
 </li>
 </ol>
 
+
+Honors
+=========
+<ol>
+<li>
+<b>2021 Kutner New Faculty Poster Session Award</b>, SRCOS Summer Research Conference
+</li>
+<li>
+<b>Travel Award</b>, SRCOS Summer Research Conference
+</li>
+<li>
+<b>James R. Thompson Student Award</b>, Department of Statistics, Rice University
+</li>
+<li>
+<b>Travel Award</b>, International Network for Social Network Analysts
+</li>
+</ol>
+
+
