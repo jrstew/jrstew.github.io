@@ -1,6 +1,6 @@
 --- 
 layout: archive
-title: "Students"
+title: ""
 permalink: /students/
 author_profile: true
 ---
@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-<h1>Current Ph.D. Students<h1>
+<h1>Current Ph.D. Students</h1>
 ======
 <ul>
 <li>
