@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-<h1>Current Ph.D. Students</h1>
+Current Ph.D. Students
 ======
 <ul>
 <li>
