@@ -16,7 +16,7 @@ Grant Support
 ======
 <ul>
 <li>
-(Co-PI) 2022-2026. iAir Force Office of Scientific Research (AFOSR).<br> 
+(Co-PI) 2022-2026. Air Force Office of Scientific Research (AFOSR).<br> 
 <i>High dimensional process monitoring</i> (PI: E Chicken, FSU). 
 </li>
 <li>
