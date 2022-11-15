@@ -16,10 +16,10 @@ with dependent edges.
 I am working on new projects and research directions 
 in profile monitoring and change-point detection in dynamical applications in medicine and biology.  
 
-Students are <u>underlined</u>.
 
 Published papers and papers in press
 ======
+Students are <u>underlined</u>.
 <ol>
 <li>
 Babkin, S., <b> Stewart, J. R.</b>, Long, X., and Schweinberger, M.
