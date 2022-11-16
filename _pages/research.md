@@ -70,7 +70,7 @@ Pseudo-likelihood-based M-estimation of random graphs with dependent edges and p
 under review (2022+). <a href="https://jrstew.github.io/files/pl.pdf">[Preprint]</a>
 </li>
 <li>
-<b>Stewart, J. R.</b>. 
+<b>Stewart, J. R.</b> 
 On the time to identify the nodes in a random graph, 
 under review (2022+). 
 </li>
