@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I gratefully acknowledge the support of the Air Force Office of Scientific Research,
+I gratefully acknowledge the support of the Department of Defense, 
 Florida State University, 
 and the Southern Regional Council on Statistics (SRCOS). 
 
@@ -16,7 +16,7 @@ Grant Support
 ======
 <ul>
 <li>
-(Co-PI) 2022-2026. Air Force Office of Scientific Research (AFOSR).<br> 
+(Co-PI) 2022-2026. Department of Defense (DoD).<br>
 <i>High dimensional process monitoring</i> (PI: E. Chicken, FSU). 
 </li>
 <li>
