@@ -86,17 +86,17 @@ Papers in preparation
 ========
 <ol start="10"> 
 <li>
-<b>Stewart, J. R.</b>.
+<b>Stewart, J. R.</b>
 Estimating random graph models from observed subgraphs, 
 in preparation (2022+).
 </li>
 <li>
-<u>Jiaheng, L.</u> and <b>Stewart, J. R.</b>.
+<u>Jiaheng, L.</u> and <b>Stewart, J. R.</b>
 Learning cross-layer dependence structure in multilayer networks,
 in preparation (2022+). 
 </li>
 <li>
-<u>Hidalgo, J. P.</u> and <b>Stewart, J. R.</b>. 
+<u>Hidalgo, J. P.</u> and <b>Stewart, J. R.</b> 
 Model selection for network data based on spectral information,
 in preparation (2022+). 
 </li>
