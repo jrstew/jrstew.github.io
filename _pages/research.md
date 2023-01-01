@@ -71,34 +71,39 @@ Papers under review
 <ol start="8">
 <li>
 <u>Hidalgo, J. P.</u> and <b>Stewart, J. R.</b>
-Model selection for network data based on spectral information,
-(2022+), under review. 
+Model selection for network data based on spectral information. 
+(2023+), under review. 
 </li>
 <li>
 <b>Stewart, J. R.</b> and Schweinberger, M.
-Pseudo-likelihood-based M-estimation of random graphs with dependent edges and parameter vectors of increasing dimension,
-under review (2022+). <a href="https://jrstew.github.io/files/pl.pdf">[Preprint]</a>
+Pseudo-likelihood-based M-estimation of random graphs with dependent edges and parameter vectors of increasing dimension. 
+(2023+), under reivew. <a href="https://jrstew.github.io/files/pl.pdf">[Preprint]</a>
 </li>
 <li>
 Ducharme, L. J., Fujimoto, K., Kuo, J., <b>Stewart, J. R.</b>, Taylor, B. and Schneider, J.
-Collaboration and growth in a large research cooperative: a network analytic approach, 
-under review (2022+). 
+Collaboration and growth in a large research cooperative: a network analytic approach.
+(2023+), under review. 
+</li>
+<li>
+Britton, K., Misra, V. V., Jayasankar, C. B., Roberts, D., Wang, H., <b>Stewart, J. R.</b>, and Asefa, T.
+Application of High-Resolution Winter Seasonal Climate Forecasts for Streamflow Prediction in Central Florida,
+(2023+), under review. 
 </li>
 </ol>
 
 
 Papers in preparation 
 ========
-<ol start="11"> 
+<ol start="12"> 
 <li>
 <b>Stewart, J. R.</b>
-Estimating random graph models from observed subgraphs, 
-in preparation (2022+).
+Estimating random graph models from observed subgraphs.  
+(2023+), in preparation. 
 </li>
 <li>
 <u>Jiaheng, L.</u> and <b>Stewart, J. R.</b>
-Learning cross-layer dependence structure in multilayer networks,
-in preparation (2022+). 
+Learning cross-layer dependence structure in multilayer networks.
+(2023+), in preparation. 
 </li>
 </ol>
   
