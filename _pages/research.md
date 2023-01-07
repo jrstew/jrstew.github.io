@@ -72,7 +72,7 @@ Papers under review
 <li>
 <u>Hidalgo, J. P.</u> and <b>Stewart, J. R.</b>
 Model selection for network data based on spectral information. 
-(2023+), under review. 
+(2023+), under review. <a href="https://jrstew.github.io/files/model_selection.pdf">[Prepint]</a>
 </li>
 <li>
 <b>Stewart, J. R.</b> and Schweinberger, M.
