@@ -24,12 +24,13 @@ Students are <u>underlined</u>.
 <li>
 <b>Stewart, J. R.</b> 
 On the time to identify the nodes in a random graph. 
-<i>Statistics & Probability Letters</i>, (2023), accepted and in press. 
+<i>Statistics & Probability Letters</i>, 195 (2023), 109779. 
+<a href="https://jrstew.github.io/files/spl.pdf">[PDF]</a>
 </li>
 <li>
 Babkin, S., <b> Stewart, J. R.</b>, Long, X., and Schweinberger, M.
 Large-scale estimation of random graph models with local dependence.
-<i>Computational Statistics and Data Analysis</i>, (2020), 107029.
+<i>Computational Statistics and Data Analysis</i>, 152 (2020), 107029.
 <a href="https://jrstew.github.io/files/csda.pdf">[PDF]</a>
 </li>
 <li>
@@ -107,9 +108,6 @@ Learning cross-layer dependence structure in multilayer networks.
 </li>
 </ol>
   
-
-
-A PDF of my CV can be found <a href="https://jrstew.github.io/files/cv.pdf">[HERE]</a>.
 
 
 
