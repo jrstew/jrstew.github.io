@@ -40,13 +40,6 @@ Exponential-family models of random graphs: Inference in finite-, super-, and in
 <a href="https://jrstew.github.io/files/stat_science.pdf">[PDF]</a>
 </li>
 <li>
-<b>Stewart, J. R.</b>
-Consistent estimation of high-dimensional random graph models with dependent edge variables.
-Ph.D. Thesis,
-<i>Rice University</i>,
-(2020).
-</li>
-<li>
 Schweinberger, M. and <b>Stewart, J.</b>
 Concentration and consistency results for canonical and curved exponential-family models of random graphs.
 <i>The Annals of Statistics</i>, 48 (2020), 374-396.
