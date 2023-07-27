@@ -91,16 +91,7 @@ Application of High-Resolution Winter Seasonal Climate Forecasts for Streamflow 
 </ol>
 
 
-Papers in preparation 
-========
-<ol start="12"> 
-<li>
-<b>Stewart, J. R.</b>
-Estimating random graph models from observed subgraphs.  
-(2023+), in preparation. 
-</li>
-</ol>
-  
+ 
 
 
 
