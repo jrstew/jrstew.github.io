@@ -64,6 +64,11 @@ Papers under review
 ===========
 <ol start="8">
 <li>
+<u>Jiaheng, L.</u> and <b>Stewart, J. R.</b>
+Learning cross-layer dependence structure in multilayer networks.
+(2023+), under review. <a href="https://jrstew.github.io/files/multi-layer.pdf">[Prepint]</a>
+</li>
+<li>
 <u>Hidalgo, J. P.</u> and <b>Stewart, J. R.</b>
 Model selection for network data based on spectral information. 
 (2023+), under review. <a href="https://jrstew.github.io/files/model_selection.pdf">[Prepint]</a>
@@ -92,11 +97,6 @@ Papers in preparation
 <li>
 <b>Stewart, J. R.</b>
 Estimating random graph models from observed subgraphs.  
-(2023+), in preparation. 
-</li>
-<li>
-<u>Jiaheng, L.</u> and <b>Stewart, J. R.</b>
-Learning cross-layer dependence structure in multilayer networks.
 (2023+), in preparation. 
 </li>
 </ol>
