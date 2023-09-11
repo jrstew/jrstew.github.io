@@ -22,6 +22,11 @@ Published papers and papers in press
 Students are <u>underlined</u>.
 <ol>
 <li>
+Ducharme, L. J., Fujimoto, K., Kuo, J., <b>Stewart, J. R.</b>, Taylor, B. and Schneider, J.
+Collaboration and growth in a large research cooperative: a network analytic approach, 
+(2023+), to appear.
+</li>
+<li>
 <b>Stewart, J. R.</b> 
 On the time to identify the nodes in a random graph. 
 <i>Statistics & Probability Letters</i>, 195 (2023), 109779. 
@@ -29,7 +34,7 @@ On the time to identify the nodes in a random graph.
 </li>
 <li>
 Babkin, S., <b> Stewart, J. R.</b>, Long, X., and Schweinberger, M.
-Large-scale estimation of random graph models with local dependence.
+Large-scale estimation of random graph models with local dependence, 
 <i>Computational Statistics and Data Analysis</i>, 152 (2020), 107029.
 <a href="https://jrstew.github.io/files/csda.pdf">[PDF]</a>
 </li>
@@ -77,11 +82,6 @@ Model selection for network data based on spectral information.
 <b>Stewart, J. R.</b> and Schweinberger, M.
 Pseudo-likelihood-based M-estimation of random graphs with dependent edges and parameter vectors of increasing dimension. 
 (2023+), under reivew. <a href="https://jrstew.github.io/files/pl.pdf">[Preprint]</a>
-</li>
-<li>
-Ducharme, L. J., Fujimoto, K., Kuo, J., <b>Stewart, J. R.</b>, Taylor, B. and Schneider, J.
-Collaboration and growth in a large research cooperative: a network analytic approach.
-(2023+), under review. 
 </li>
 <li>
 Britton, K., Misra, V. V., Jayasankar, C. B., Roberts, D., Wang, H., <b>Stewart, J. R.</b>, and Asefa, T.
