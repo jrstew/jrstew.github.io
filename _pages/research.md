@@ -24,7 +24,7 @@ Students are <u>underlined</u>.
 <li>
 Ducharme, L. J., Fujimoto, K., Kuo, J., <b>Stewart, J. R.</b>, Taylor, B. and Schneider, J.
 Collaboration and growth in a large research cooperative: a network analytic approach, 
-(2023+), to appear.
+(2023+), in press. 
 </li>
 <li>
 <b>Stewart, J. R.</b> 
