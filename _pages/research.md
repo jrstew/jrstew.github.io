@@ -69,24 +69,29 @@ Papers under review
 ===========
 <ol start="8">
 <li>
+<b>Stewart, J. R.</b>
+Rates of convergence and normal approximations for estimators of local dependence random graph models,
+(2024+), under review. <a href="https://jrstew.github.io/files/loc_dep_rates.pdf">[Preprint]</a>
+</li>
+<li>
 <u>Jiaheng, L.</u> and <b>Stewart, J. R.</b>
 Learning cross-layer dependence structure in multilayer networks,
-(2023+), under review. <a href="https://jrstew.github.io/files/multi-layer.pdf">[Preprint]</a>
+(2024+), under review. <a href="https://jrstew.github.io/files/multi-layer.pdf">[Preprint]</a>
 </li>
 <li>
 <u>Hidalgo, J. P.</u> and <b>Stewart, J. R.</b>
 Model selection for network data based on spectral information,
-(2023+), under review. <a href="https://jrstew.github.io/files/model_selection.pdf">[Preprint]</a>
+(2024+), under review. <a href="https://jrstew.github.io/files/model_selection.pdf">[Preprint]</a>
 </li>
 <li>
 <b>Stewart, J. R.</b> and Schweinberger, M.
 Pseudo-likelihood-based M-estimation of random graphs with dependent edges and parameter vectors of increasing dimension,  
-(2023+), under reivew. <a href="https://jrstew.github.io/files/pl.pdf">[Preprint]</a>
+(2024+), under reivew. <a href="https://jrstew.github.io/files/pl.pdf">[Preprint]</a>
 </li>
 <li>
 Britton, K., Misra, V. V., Jayasankar, C. B., Roberts, D., Wang, H., <b>Stewart, J. R.</b>, and Asefa, T.
 Application of High-Resolution Winter Seasonal Climate Forecasts for Streamflow Prediction in Central Florida,
-(2023+), under review. 
+(2024+), under review. 
 </li>
 </ol>
 
