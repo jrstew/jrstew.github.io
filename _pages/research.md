@@ -88,11 +88,6 @@ Model selection for network data based on spectral information,
 Pseudo-likelihood-based M-estimation of random graphs with dependent edges and parameter vectors of increasing dimension,  
 (2024+), under reivew. <a href="https://jrstew.github.io/files/pl.pdf">[Preprint]</a>
 </li>
-<li>
-Britton, K., Misra, V. V., Jayasankar, C. B., Roberts, D., Wang, H., <b>Stewart, J. R.</b>, and Asefa, T.
-Application of High-Resolution Winter Seasonal Climate Forecasts for Streamflow Prediction in Central Florida,
-(2024+), under review. 
-</li>
 </ol>
 
 
