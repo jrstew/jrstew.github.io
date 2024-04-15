@@ -70,6 +70,11 @@ Papers under review
 <ol start="8">
 <li>
 <b>Stewart, J. R.</b>
+Consistency of empirical distributions of sequences of graph statistics in networks with dependent edges, 
+(2024+), under review. 
+</li>
+<li>
+<b>Stewart, J. R.</b>
 Rates of convergence and normal approximations for estimators of local dependence random graph models,
 (2024+), under review. <a href="https://jrstew.github.io/files/loc_dep_rates.pdf">[Preprint]</a>
 </li>
