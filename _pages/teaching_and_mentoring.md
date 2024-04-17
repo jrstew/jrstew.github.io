@@ -22,7 +22,7 @@ Jiaheng Li (2020-Present)<br>
 Shubham Dhumal (2024-Present)
 </li>
 <li>
-Gaung Qiu (2024-Present)
+Guang Qiu (2024-Present)
 </li>
 <li>
 Joel Carrol (2024-Present)
@@ -42,6 +42,7 @@ Calculus based introduction to probability and statistics for engineering and st
 STA 4321/5323 <i>Introduction to Mathematical Statistics</i><br>
 Course teaching the foundations of probability necessary for a first course in mathematical statistics. 
 </li>
+<li>
 STA 4322/5325 <i>Mathematical Statistics</i><br>
 Advanced undergraduate course in mathematical statistics.
 </li>
