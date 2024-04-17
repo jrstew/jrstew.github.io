@@ -18,6 +18,15 @@ Jairo Pe&#241;a Hidalgo (2020-Present)
 Jiaheng Li (2020-Present)<br>
 <i>Florida ASA Chapter Student Presentation Award</i>
 </li>
+<li>
+Shubham Dhumal (2024-Present)
+</li>
+<li>
+Gaung Qiu (2024-Present)
+</li>
+<li>
+Joel Carrol (2024-Present)
+</li>
 </ul>
 
 
@@ -32,6 +41,17 @@ Calculus based introduction to probability and statistics for engineering and st
 <li>
 STA 4321/5323 <i>Introduction to Mathematical Statistics</i><br>
 Course teaching the foundations of probability necessary for a first course in mathematical statistics. 
+</li>
+STA 4322/5325 <i>Mathematical Statistics</i><br>
+Advanced undergraduate course in mathematical statistics.
+</li>
+<li>
+STA 5934 <i>Selected Topics in Statistics, Probability, and Operations Research</i><br>
+Introduction to the topic of statistical network analysis, covering the foundations
+of graphs and network data,
+probability distributions for graph spaces,
+statistical models for network data,
+with emphasis on estimation, inference, and methods.
 </li>
 </ul>
 
