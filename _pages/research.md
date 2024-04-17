@@ -71,7 +71,7 @@ Papers under review
 <li>
 <b>Stewart, J. R.</b>
 Consistency of empirical distributions of sequences of graph statistics in networks with dependent edges, 
-(2024+), under review. 
+(2024+), under review. <a href="https://jrstew.github.io/files/emp_dist.pdf">[Preprint]</a>
 </li>
 <li>
 <b>Stewart, J. R.</b>
