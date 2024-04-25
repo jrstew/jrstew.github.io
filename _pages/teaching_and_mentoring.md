@@ -12,7 +12,8 @@ Current Ph.D. Students
 =======
 <ul>
 <li>
-Jairo Pe&#241;a Hidalgo (2020-Present)
+Jairo Pe&#241;a Hidalgo (2020-Present)<br>
+<i>2024 Award for Outstanding Performance as a Teaching Assistant<i>
 </li>
 <li>
 Jiaheng Li (2020-Present)<br>
