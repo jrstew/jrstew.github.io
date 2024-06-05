@@ -16,6 +16,10 @@ Grant Support
 ======
 <ul>
 <li>
+(PI) 2024-2027. National Science Foundation (NSF), MMS Program.<br> 
+<i>Generalized Latent Position Models for Network Data.</i>
+</li>
+<li>
 (Co-PI) 2022-2026. Department of Defense (DoD).<br>
 <i>High dimensional process monitoring</i> (PI: E. Chicken, FSU). 
 </li>
