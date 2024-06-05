@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I gratefully acknowledge the support of the Department of Defense, 
+I gratefully acknowledge the support of the National Science Foundation, the Department of Defense, 
 Florida State University, 
 and the Southern Regional Council on Statistics (SRCOS). 
 
