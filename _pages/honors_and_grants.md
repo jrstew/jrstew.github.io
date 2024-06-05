@@ -16,7 +16,8 @@ Grant Support
 ======
 <ul>
 <li>
-(PI) 2024-2027. National Science Foundation (NSF), Methodology, Measurement, and Statistics (MMS) Program.<br> 
+(PI) 2024-2027. National Science Foundation (NSF)<br>
+Methodology, Measurement, and Statistics (MMS) Program.<br> 
 <i>Generalized Latent Position Models for Network Data.</i>
 </li>
 <li>
