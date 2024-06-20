@@ -5,8 +5,8 @@ main:
     url: /research/
   - title: "Honors and Grant Support" 
     url: /honors_and_grants/
-  - title: "Software"
-    url: /software/
   - title: "Teaching and Mentoring" 
     url: /teaching_and_mentoring/
+  - title: "Software" 
+    url: /software/
 
