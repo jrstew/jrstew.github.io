@@ -40,10 +40,10 @@ Honors
 =========
 <ul>
 <li>
-<b>Communications Officer</b> (2021-2023), Mental Health Statistics Section of the American Statistical Association 
+<b>Communications Officer</b> (2021-2024), Mental Health Statistics Section of the American Statistical Association 
 </li>
 <li>
-<b>2021 Kutner New Faculty Poster Session Award</b>, SRCOS Summer Research Conference
+<b>2021 Kutner Best New Faculty Poster Session Award</b>, SRCOS Summer Research Conference
 </li>
 <li>
 <b>Travel Award</b>, SRCOS Summer Research Conference
