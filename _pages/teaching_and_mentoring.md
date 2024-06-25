@@ -17,7 +17,7 @@ Jairo Pe&#241;a Hidalgo (2020-Present)<br>
 </li>
 <li>
 Jiaheng Li (2020-Present)<br>
-<i>Florida ASA Chapter Student Presentation Award</i>
+<i>2022 Florida ASA Chapter Student Presentation Award</i>
 </li>
 <li>
 Shubham Dhumal (2024-Present)
