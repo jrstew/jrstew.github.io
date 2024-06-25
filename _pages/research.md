@@ -22,6 +22,12 @@ Published papers and papers in press
 Students are <u>underlined</u>.
 <ol>
 <li>
+<u>Hidalgo, J. P.</u> and <b>Stewart, J. R.</b>
+Model selection for network data based on spectral information,
+<i>Applied Network Science</i>, (2024+), <i> accepted and in press</i>. 
+<a href="https://jrstew.github.io/files/model_selection.pdf">[Preprint]</a>
+</li>
+<li>
 Ducharme, L. J., Fujimoto, K., Kuo, J., <b>Stewart, J. R.</b>, Taylor, B. and Schneider, J.
 Collaboration and growth in a large research cooperative: a network analytic approach, 
 <i>Evaluation and Program Planning</i>, 102 (2024), 102375. 
@@ -67,7 +73,7 @@ Parent of origin, mosaicism, and recurrence risk: Probabilistic modeling explain
 
 Papers under review
 ===========
-<ol start="8">
+<ol start="9">
 <li>
 <b>Stewart, J. R.</b>
 Consistency of empirical distributions of sequences of graph statistics in networks with dependent edges, 
@@ -82,11 +88,6 @@ Rates of convergence and normal approximations for estimators of local dependenc
 <u>Jiaheng, L.</u> and <b>Stewart, J. R.</b>
 Learning cross-layer dependence structure in multilayer networks,
 (2024+), under review. <a href="https://jrstew.github.io/files/multi-layer.pdf">[Preprint]</a>
-</li>
-<li>
-<u>Hidalgo, J. P.</u> and <b>Stewart, J. R.</b>
-Model selection for network data based on spectral information,
-(2024+), under review. <a href="https://jrstew.github.io/files/model_selection.pdf">[Preprint]</a>
 </li>
 <li>
 <b>Stewart, J. R.</b> and Schweinberger, M.
