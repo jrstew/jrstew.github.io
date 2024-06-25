@@ -55,6 +55,11 @@ probability distributions for graph spaces,
 statistical models for network data,
 with emphasis on estimation, inference, and methods.
 </li>
+<li>
+STA 6346 <i>Advanced Probability and Inference I</i><br>
+A first measure theoretic probability course for students enrolled in the statistics and biostatistics Ph.D. programs. 
+This course is a required qualifying course for the Ph.D. in statistics and biostatistics qualifying exams.
+</li>
 </ul>
 
 
