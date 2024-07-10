@@ -22,10 +22,10 @@ Published papers and papers in press
 Students are <u>underlined</u>.
 <ol>
 <li>
-<u>Hidalgo, J. P.</u> and <b>Stewart, J. R.</b>
+<u>Peña Hidalgo, J. I.</u> and <b>Stewart, J. R.</b>
 Model selection for network data based on spectral information,
-<i>Applied Network Science</i>, (2024+), <i> accepted and in press</i>. 
-<a href="https://jrstew.github.io/files/model_selection.pdf">[Preprint]</a>
+<i>Applied Network Science</i> 9, 36 (2024).
+<a href="https://jrstew.github.io/files/ans.pdf">[PDF]</a>
 </li>
 <li>
 Ducharme, L. J., Fujimoto, K., Kuo, J., <b>Stewart, J. R.</b>, Taylor, B. and Schneider, J.
