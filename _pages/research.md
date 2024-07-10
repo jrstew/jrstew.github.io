@@ -24,7 +24,7 @@ Students are <u>underlined</u>.
 <li>
 <u>Peña Hidalgo, J. I.</u> and <b>Stewart, J. R.</b>
 Model selection for network data based on spectral information,
-<i>Applied Network Science</i> 9, 36 (2024).
+<i>Applied Network Science</i>, 9 (36) (2024).
 <a href="https://jrstew.github.io/files/ans.pdf">[PDF]</a>
 </li>
 <li>
