@@ -51,7 +51,7 @@ Advanced undergraduate course in mathematical statistics.
 </li>
 <li>
 STA 5934 <i>Selected Topics in Statistics, Probability, and Operations Research</i><br>
-Introduction to the topic of statistical network analysis, covering the foundations
+Topic: Introduction to the topic of statistical network analysis, covering the foundations
 of graphs and network data,
 probability distributions for graph spaces,
 statistical models for network data,
