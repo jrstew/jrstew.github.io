@@ -46,13 +46,13 @@ Honors
 <b>2021 Kutner Best New Faculty Poster Session Award</b>, SRCOS Summer Research Conference
 </li>
 <li>
-<b>Travel Award</b>, SRCOS Summer Research Conference
+<b>2021 Travel Award</b>, SRCOS Summer Research Conference
 </li>
 <li>
-<b>James R. Thompson Student Award</b>, Department of Statistics, Rice University
+<b>2019 James R. Thompson Student Award</b>, Department of Statistics, Rice University
 </li>
 <li>
-<b>Travel Award</b>, International Network for Social Network Analysts
+<b>2019 Travel Award</b>, International Network for Social Network Analysts
 </li>
 </ul>
 
