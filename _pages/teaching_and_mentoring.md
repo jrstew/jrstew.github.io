@@ -20,13 +20,15 @@ Jiaheng Li (2020-Present)<br>
 <i>2022 Florida ASA Chapter Student Presentation Award</i>
 </li>
 <li>
-Shubham Dhumal (2024-Present)
+Shubham Dhumal (2024-Present)<br> 
+<i>Recipient of the Dean's Award for Doctoral Excellence</i>
 </li>
 <li>
 Guang Qiu (2024-Present)
 </li>
 <li>
-Joel Carrol (2024-Present)
+Joel Carrol (2024-Present)<br>
+<i>Recipient of the Dean's Award for Doctoral Excellence</i>
 </li>
 </ul>
 
