@@ -21,14 +21,14 @@ Jiaheng Li (2020-Present)<br>
 </li>
 <li>
 Shubham Dhumal (2024-Present)<br> 
-<i>Recipient of the Dean's Award for Doctoral Excellence</i>
+<i>2024 Recipient of the Dean's Award for Doctoral Excellence</i>
 </li>
 <li>
 Guang Qiu (2024-Present)
 </li>
 <li>
 Joel Carrol (2024-Present)<br>
-<i>Recipient of the Dean's Award for Doctoral Excellence</i>
+<i>2024 Recipient of the Dean's Award for Doctoral Excellence</i>
 </li>
 </ul>
 
