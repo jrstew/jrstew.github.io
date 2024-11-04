@@ -85,7 +85,7 @@ Rates of convergence and normal approximations for estimators of local dependenc
 (2024+), under review. <a href="https://jrstew.github.io/files/loc_dep_rates.pdf">[Preprint]</a>
 </li>
 <li>
-<u>Jiaheng, L.</u> and <b>Stewart, J. R.</b>
+<u>Li, J.</u> and <b>Stewart, J. R.</b>
 Learning cross-layer dependence structure in multilayer networks,
 (2024+), under review. <a href="https://jrstew.github.io/files/multi-layer.pdf">[Preprint]</a>
 </li>
