@@ -26,11 +26,11 @@ Methodology, Measurement, and Statistics (MMS) Program.<br>
 </li>
 <li>
 (PI) 2022-2023. 
-Committee on Faculty Research Support Award, Florida State University.<br>
+Committee on Faculty Research Support Award, Florida State University, $20,000.<br>
 <i>Generalized latent space models for network data.</i>
 </li>
 <li>
-(PI) 2021-2022. First Year Assistant Professor Award, Florida State University.<br>
+(PI) 2021-2022. First Year Assistant Professor Award, Florida State University, $20,000.<br>
 <i>Subgraph-to-graph estimation and inference for sampled network data</i>
 </li>
 </ul>
