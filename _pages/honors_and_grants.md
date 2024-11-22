@@ -12,7 +12,7 @@ Florida State University,
 and the Southern Regional Council on Statistics (SRCOS). 
 
 
-Grant Support 
+Grant Support for Research  
 ======
 <ul>
 <li>
@@ -32,6 +32,17 @@ Committee on Faculty Research Support Award, Florida State University, $20,000.<
 <li>
 (PI) 2021-2022. First Year Assistant Professor Award, Florida State University, $20,000.<br>
 <i>Subgraph-to-graph estimation and inference for sampled network data</i>
+</li>
+</ul>
+
+Other grant support
+======
+<ul>
+<li>
+(Proposal Lead) 2022-2024. 
+Student Technology Fee Advisory Committee, Florida State University, $63,771.<br>
+<i>Funding to acquire technology to expand computational and technological offerings in the Department of Statistics
+at Florida State University for research and education.</i>
 </li>
 </ul>
 
