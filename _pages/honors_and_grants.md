@@ -16,13 +16,13 @@ Grant Support
 ======
 <ul>
 <li>
-(PI) 2024-2027. National Science Foundation (NSF)<br>
+(PI) 2024-2027. National Science Foundation (NSF), $300,000<br>
 Methodology, Measurement, and Statistics (MMS) Program.<br> 
-<i>Generalized Latent Position Models for Network Data.</i>
+<i>Generalized Latent Position Models for Network Data.</i> (Role: PI). 
 </li>
 <li>
-(Co-PI) 2022-2026. Department of Defense (DoD).<br>
-<i>High dimensional process monitoring</i> (PI: E. Chicken, FSU). 
+(Co-PI) 2022-2026. Department of Defense (DoD), $597,000.<br>
+<i>High dimensional process monitoring</i> (Role: Co-PI). 
 </li>
 <li>
 (PI) 2022-2023. 
