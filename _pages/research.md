@@ -85,6 +85,11 @@ Rates of convergence and normal approximations for estimators of local dependenc
 (2024+), under review. <a href="https://jrstew.github.io/files/loc_dep_rates.pdf">[Preprint]</a>
 </li>
 <li>
+Loyal, J. D., <u>Wu, X.</u>, <b>Stewart, J. R.</b>
+A Latent Space Approach to Inferring Distance-Dependent Reciprocity in Directed Networks, 
+(2024+), under review. 
+</li>
+<li>
 <u>Li, J.</u> and <b>Stewart, J. R.</b>
 Learning cross-layer dependence structure in multilayer networks,
 (2024+), under review. <a href="https://jrstew.github.io/files/multi-layer.pdf">[Preprint]</a>
