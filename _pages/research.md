@@ -87,7 +87,7 @@ Rates of convergence and normal approximations for estimators of local dependenc
 <li>
 Loyal, J. D., <u>Wu, X.</u>, <b>Stewart, J. R.</b>
 A Latent Space Approach to Inferring Distance-Dependent Reciprocity in Directed Networks, 
-(2024+), under review. 
+(2024+), under review. <a href="https://jrstew.github.io/files/ls_rec.pdf">[Preprint]</a>
 </li>
 <li>
 <u>Li, J.</u> and <b>Stewart, J. R.</b>
