@@ -62,6 +62,9 @@ STA 6346 <i>Advanced Probability and Inference I</i><br>
 A first measure theoretic probability course for students enrolled in the statistics and biostatistics Ph.D. programs. 
 This course is a required qualifying course for the Ph.D. in statistics and biostatistics qualifying exams.
 </li>
+<li> 
+STA 6448 <i>Advanced Probability and Inference II</i><br>
+The second semester of a two semester measure theoretic probability sequence for students enrolled in the statistics and biostatisticis Ph.D. programs. This course is a required course for the Ph.D. in statisitcs and biostatistics. 
 </ul>
 
 
