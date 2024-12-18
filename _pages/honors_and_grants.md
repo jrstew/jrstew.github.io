@@ -56,7 +56,10 @@ Honors
 =========
 <ul>
 <li>
-<b>Communications Officer</b> (2021-2024), Mental Health Statistics Section of the American Statistical Association 
+<b>2024 Dean's Travel Award</b>, College of Arts and Science, Florida State University
+</li>
+<li>
+<b>Communications Officer</b> (2021-2025), Mental Health Statistics Section of the American Statistical Association 
 </li>
 <li>
 <b>2021 Kutner Best New Faculty Poster Session Award</b>, SRCOS Summer Research Conference
