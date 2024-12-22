@@ -20,7 +20,7 @@ in profile monitoring and change-point detection in dynamical applications in me
 Published papers and papers in press
 ======
 Students are <u>underlined</u>.
-<ol>
+<ol reversed>
 <li>
 <u>Peña Hidalgo, J. I.</u> and <b>Stewart, J. R.</b>
 Model selection for network data based on spectral information,
