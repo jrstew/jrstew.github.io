@@ -24,7 +24,7 @@ Students are <u>underlined</u>.
 <li>
 <b>Stewart, J. R.</b>
 Rates of convergence and normal approximations for estimators of local dependence random graph models,
-<i>Bernoulli</i> (2025), accepted and in press. <a href="https://jrstew.github.io/files/loc_dep_rates.pdf">[Preprint]</a>
+<i>Bernoulli</i> (2025), accepted and in press. <a href="https://jrstew.github.io/files/bernoulli.pdf">[PDF]</a>
 </li>
 <li>
 <u>Peña Hidalgo, J. I.</u> and <b>Stewart, J. R.</b>
