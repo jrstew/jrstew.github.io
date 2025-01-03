@@ -22,6 +22,11 @@ Published papers and papers in press
 Students are <u>underlined</u>.
 <ol reversed>
 <li>
+<b>Stewart, J. R.</b>
+Rates of convergence and normal approximations for estimators of local dependence random graph models,
+<i>Bernoulli</i> (2025), accepted and in press. <a href="https://jrstew.github.io/files/loc_dep_rates.pdf">[Preprint]</a>
+</li>
+<li>
 <u>Peña Hidalgo, J. I.</u> and <b>Stewart, J. R.</b>
 Model selection for network data based on spectral information,
 <i>Applied Network Science</i>, 9 (36) (2024).
@@ -78,11 +83,6 @@ Papers under review
 <b>Stewart, J. R.</b>
 Consistency of empirical distributions of sequences of graph statistics in networks with dependent edges, 
 (2024+), under review. <a href="https://jrstew.github.io/files/emp_dist.pdf">[Preprint]</a>
-</li>
-<li>
-<b>Stewart, J. R.</b>
-Rates of convergence and normal approximations for estimators of local dependence random graph models,
-(2024+), under review. <a href="https://jrstew.github.io/files/loc_dep_rates.pdf">[Preprint]</a>
 </li>
 <li>
 Loyal, J. D., <u>Wu, X.</u>, <b>Stewart, J. R.</b>
