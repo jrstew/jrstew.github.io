@@ -27,6 +27,11 @@ Rates of convergence and normal approximations for estimators of local dependenc
 <i>Bernoulli</i> (2025), accepted and in press. <a href="https://jrstew.github.io/files/bernoulli.pdf">[PDF]</a>
 </li>
 <li>
+Loyal, J. D., <u>Wu, X.</u>, <b>Stewart, J. R.</b>
+A Latent Space Approach to Inferring Distance-Dependent Reciprocity in Directed Networks, 
+(2024+), under review. <a href="https://jrstew.github.io/files/ls_rec.pdf">[Preprint]</a>
+</li>
+<li>
 <u>Peña Hidalgo, J. I.</u> and <b>Stewart, J. R.</b>
 Model selection for network data based on spectral information,
 <i>Applied Network Science</i>, 9 (36) (2024).
@@ -78,16 +83,11 @@ Parent of origin, mosaicism, and recurrence risk: Probabilistic modeling explain
 
 Papers under review
 ===========
-<ol start="10">
+<ol start="11">
 <li>
 <b>Stewart, J. R.</b>
 Consistency of empirical distributions of sequences of graph statistics in networks with dependent edges, 
 (2024+), under review. <a href="https://jrstew.github.io/files/emp_dist.pdf">[Preprint]</a>
-</li>
-<li>
-Loyal, J. D., <u>Wu, X.</u>, <b>Stewart, J. R.</b>
-A Latent Space Approach to Inferring Distance-Dependent Reciprocity in Directed Networks, 
-(2024+), under review. <a href="https://jrstew.github.io/files/ls_rec.pdf">[Preprint]</a>
 </li>
 <li>
 <u>Li, J.</u> and <b>Stewart, J. R.</b>
