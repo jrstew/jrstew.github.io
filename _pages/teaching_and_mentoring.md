@@ -55,7 +55,7 @@ Topic: Introduction to statistical network analysis, covering the foundations
 of graphs and network data,
 probability distributions for graph spaces,
 statistical models for network data,
-with emphasis on estimation, inference, and methods.
+and statistical methods and theory for estimation and inference.  
 </li>
 <li>
 STA 6346 <i>Advanced Probability and Inference I</i><br>
