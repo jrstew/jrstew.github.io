@@ -39,11 +39,11 @@ Courses Taught
 <ul>
 <li>
 STA 3032 <i>Applied Statistics for Engineers and Scientists</i><br>
-Calculus based introduction to probability and statistics for engineering and statistics students. 
+Calculus based introduction to probability and statistics for undergraduate students in engineering and data science disciplines.  
 </li>
 <li>
 STA 4321/5323 <i>Introduction to Mathematical Statistics</i><br>
-Course teaching the foundations of probability necessary for a first course in mathematical statistics. 
+Advanced undergraduate course teaching the goundations of probability theory necessary for a first course in mathematical statistics. 
 </li>
 <li>
 STA 4322/5325 <i>Mathematical Statistics</i><br>
