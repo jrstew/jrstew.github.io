@@ -64,7 +64,14 @@ This course is a required qualifying course for the Ph.D. in statistics and bios
 </li>
 <li> 
 STA 6448 <i>Advanced Probability and Inference II</i><br>
-The second semester of a two semester measure theoretic probability sequence for students enrolled in the statistics and biostatistics Ph.D. programs. This course is a required course for the Ph.D. in statistics and biostatistics.
+The second semester of a two semester measure theoretic probability sequence for students enrolled in the statistics and biostatistics Ph.D. programs. 
+The course focuses on advanced convergence concepts for random vectors, 
+advanced central limit theorems, 
+including finite-sample error bounds to the normal approximation, 
+an introduction to statistical optimization,
+focusing on  in maximum likelihood estimation and M-estimation, 
+and additioanl selected topics. 
+This course is a required course for the Ph.D. in statistics and biostatistics.
 </li>
 </ul>
 
