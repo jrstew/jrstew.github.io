@@ -60,14 +60,14 @@ and statistical methods and theory for estimation and inference.
 <li>
 STA 6346 <i>Advanced Probability and Inference I</i><br>
 The first semester of a two semester measure theoretic probability sequence for students enrolled in the statistics and biostatistics Ph.D. programs. The first semester focuses on the foundations of probability theory.  
-This course is a required qualifying course for the Ph.D. in statistics and biostatistics qualifying exams.
+This course is a required qualifying exam course for the Ph.D. programs in statistics and biostatistics. 
 </li>
 <li> 
 STA 6448 <i>Advanced Probability and Inference II</i><br>
 The second semester of a two semester measure theoretic probability sequence for students enrolled in the statistics and biostatistics Ph.D. programs. 
 The second semester focuses on advanced convergence concepts and limit theory
 and statistical estimation and inference. 
-This course is a required course for the Ph.D. in statistics and biostatistics.
+This course is a required course for the Ph.D. programs in statistics and biostatistics.
 </li>
 </ul>
 
