@@ -59,7 +59,7 @@ and statistical methods and theory for estimation and inference.
 </li>
 <li>
 STA 6346 <i>Advanced Probability and Inference I</i><br>
-A first measure theoretic probability course for students enrolled in the statistics and biostatistics Ph.D. programs. 
+The first semester of a two semester measure theoretic probability sequence for students enrolled in the statistics and biostatistics Ph.D. programs. The course focuses on measure theoretic foundations for probability, including probability spaces, construction of probability measures, Lebesgue integration, convergence of random variables, selected limit theorems, conditional expectation, regular conditional probability, and conditioanl expectation. 
 This course is a required qualifying course for the Ph.D. in statistics and biostatistics qualifying exams.
 </li>
 <li> 
