@@ -27,6 +27,12 @@ Rates of convergence and normal approximations for estimators of local dependenc
 <i>Bernoulli</i> (2025), accepted and in press. <a href="https://jrstew.github.io/files/bernoulli.pdf">[PDF]</a>
 </li>
 <li>
+<b>Stewart, J. R.</b>
+Consistency of empirical distributions of sequences of graph statistics in networks with dependent edges, 
+<i>Journal of Multivariate Analysis</i> (2025), accepted and in press. 
+<a href="https://jrstew.github.io/files/emp_dist.pdf">[Preprint]</a>
+</li>
+<li>
 Loyal, J. D., <u>Wu, X.</u>, <b>Stewart, J. R.</b>
 A Latent Space Approach to Inferring Distance-Dependent Reciprocity in Directed Networks,
 <i>Stat</i> (2025), accepted and in press. <a href="https://jrstew.github.io/files/ls_rec.pdf">[PDF]</a>
@@ -83,21 +89,16 @@ Parent of origin, mosaicism, and recurrence risk: Probabilistic modeling explain
 
 Papers under review
 ===========
-<ol start="11">
-<li>
-<b>Stewart, J. R.</b>
-Consistency of empirical distributions of sequences of graph statistics in networks with dependent edges, 
-(2024+), under review. <a href="https://jrstew.github.io/files/emp_dist.pdf">[Preprint]</a>
-</li>
+<ol start="12">
 <li>
 <u>Li, J.</u> and <b>Stewart, J. R.</b>
 Learning cross-layer dependence structure in multilayer networks,
-(2024+), under review. <a href="https://jrstew.github.io/files/multi-layer.pdf">[Preprint]</a>
+(2025+), under review. <a href="https://jrstew.github.io/files/multi-layer.pdf">[Preprint]</a>
 </li>
 <li>
 <b>Stewart, J. R.</b> and Schweinberger, M.
 Pseudo-likelihood-based M-estimation of random graphs with dependent edges and parameter vectors of increasing dimension,  
-(2024+), under reivew. <a href="https://jrstew.github.io/files/pl.pdf">[Preprint]</a>
+(2025+), under reivew. <a href="https://jrstew.github.io/files/pl.pdf">[Preprint]</a>
 </li>
 </ol>
 
