@@ -29,7 +29,7 @@ Rates of convergence and normal approximations for estimators of local dependenc
 <li>
 <b>Stewart, J. R.</b>
 Consistency of empirical distributions of sequences of graph statistics in networks with dependent edges, 
-<i>Journal of Multivariate Analysis</i> (2025), accepted and in press. 
+<i>Journal of Multivariate Analysis</i> (2025), scientifically accepted. 
 <a href="https://jrstew.github.io/files/emp_dist.pdf">[Preprint]</a>
 </li>
 <li>
