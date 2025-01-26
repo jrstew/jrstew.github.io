@@ -34,7 +34,7 @@ Consistency of empirical distributions of sequences of graph statistics in netwo
 </li>
 <li>
 Loyal, J. D., <u>Wu, X.</u>, <b>Stewart, J. R.</b>
-A Latent Space Approach to Inferring Distance-Dependent Reciprocity in Directed Networks,
+A latent space approach to inferring distance-dependent reciprocity in directed networks,
 <i>Stat</i> (2025), accepted and in press. <a href="https://jrstew.github.io/files/ls_rec.pdf">[PDF]</a>
 </li>
 <li>
