@@ -98,7 +98,7 @@ Learning cross-layer dependence structure in multilayer networks,
 <li>
 <b>Stewart, J. R.</b> and Schweinberger, M.
 Pseudo-likelihood-based M-estimation of random graphs with dependent edges and parameter vectors of increasing dimension,  
-(2025+), under reivew. <a href="https://jrstew.github.io/files/pl.pdf">[Preprint]</a>
+(2025+), under review. <a href="https://jrstew.github.io/files/pl.pdf">[Preprint]</a>
 </li>
 </ol>
 
