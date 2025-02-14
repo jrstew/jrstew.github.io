@@ -29,13 +29,13 @@ Rates of convergence and normal approximations for estimators of local dependenc
 <li>
 <b>Stewart, J. R.</b>
 Consistency of empirical distributions of sequences of graph statistics in networks with dependent edges, 
-<i>Journal of Multivariate Analysis</i> (2025), 207, 105420. 
+<i>Journal of Multivariate Analysis</i> 207 (2025), 105420. 
 <a href="https://jrstew.github.io/files/emp_dist.pdf">[PDF]</a>
 </li>
 <li>
 Loyal, J. D., <u>Wu, X.</u>, <b>Stewart, J. R.</b>
 A latent space approach to inferring distance-dependent reciprocity in directed networks,
-<i>Stat</i> (2025), 14 (1), e70042. 
+<i>Stat</i> 14 (1) (2025), e70042. 
 <a href="https://jrstew.github.io/files/ls_rec.pdf">[PDF]</a>
 </li>
 <li>
