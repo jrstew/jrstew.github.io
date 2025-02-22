@@ -43,7 +43,7 @@ Calculus based introduction to probability and statistics for undergraduate stud
 </li>
 <li>
 STA 4321/5323 <i>Introduction to Mathematical Statistics</i><br>
-Advanced undergraduate course teaching the goundations of probability theory necessary for a first course in mathematical statistics. 
+Advanced undergraduate course teaching the foundations of probability theory necessary for a first course in mathematical statistics. 
 </li>
 <li>
 STA 4322/5325 <i>Mathematical Statistics</i><br>
