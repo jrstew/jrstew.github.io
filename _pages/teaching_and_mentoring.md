@@ -28,7 +28,7 @@ Joel Carrol (2024-Present)<br>
 </li>
 </ul>
 
-Current Ph.D. Students
+Former Ph.D. Students
 =======
 <ul>
 <li>
