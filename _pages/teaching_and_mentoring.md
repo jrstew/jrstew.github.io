@@ -16,10 +16,6 @@ Jairo Pe&#241;a Hidalgo (2020-Present)<br>
 <i>2024 Award for Outstanding Performance as a Teaching Assistant</i>
 </li>
 <li>
-Jiaheng Li (2020-Present)<br>
-<i>2022 Florida ASA Chapter Student Presentation Award</i>
-</li>
-<li>
 Shubham Dhumal (2024-Present)<br> 
 <i>2024 recipient of the Dean's Award for Doctoral Excellence</i>
 </li>
@@ -32,6 +28,15 @@ Joel Carrol (2024-Present)<br>
 </li>
 </ul>
 
+Current Ph.D. Students
+=======
+<ul>
+<li>
+Jiaheng Li (2020-2025)<br>
+<i>2022 Florida ASA Chapter Student Presentation Award</i><br> 
+First job: Amazon 
+</li>
+</ul>
 
 
 Courses Taught
