@@ -12,10 +12,6 @@ Current Ph.D. Students
 =======
 <ul>
 <li>
-Jairo Pe&#241;a Hidalgo (2020-Present)<br>
-<i>2024 Award for Outstanding Performance as a Teaching Assistant</i>
-</li>
-<li>
 Shubham Dhumal (2024-Present)<br> 
 <i>2024 recipient of the Dean's Award for Doctoral Excellence</i>
 </li>
@@ -36,6 +32,12 @@ Jiaheng Li (2020-2025)<br>
 <i>2022 Florida ASA Chapter Student Presentation Award</i><br> 
 First job: Amazon 
 </li>
+<li>
+Jairo Pe&#241;a Hidalgo (2020-2025)<br>
+<i>2024 Award for Outstanding Performance as a Teaching Assistant</i><br>
+First job: Visiting Assistant Professor, Wake Forest University 
+</li>
+
 </ul>
 
 
