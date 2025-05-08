@@ -25,7 +25,7 @@ Students are <u>underlined</u>.
 <b>Stewart, J. R.</b> and Schweinberger, M.
 Pseudo-likelihood-based M-estimation of random graphs with dependent edges and parameter vectors of increasing dimension, 
 <i>The Annals of Statistics</i> (2025), accepted and in press.  
-<a href="https://jrstew.github.io/files/pl.pdf">[Preprint]</a>
+<a href="https://jrstew.github.io/files/pl.pdf">[PDF]</a>
 </li>
 <li>
 <b>Stewart, J. R.</b>
