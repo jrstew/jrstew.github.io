@@ -22,6 +22,12 @@ Published papers and papers in press
 Students are <u>underlined</u>.
 <ol reversed>
 <li>
+<b>Stewart, J. R.</b> and Schweinberger, M.
+Pseudo-likelihood-based M-estimation of random graphs with dependent edges and parameter vectors of increasing dimension, 
+<i>The Annals of Statistics</i> (2025), accepted and in press.  
+<a href="https://jrstew.github.io/files/pl.pdf">[Preprint]</a>
+</li>
+<li>
 <b>Stewart, J. R.</b>
 Rates of convergence and normal approximations for estimators of local dependence random graph models,
 <i>Bernoulli</i> (2025), accepted and in press. <a href="https://jrstew.github.io/files/bernoulli.pdf">[PDF]</a>
@@ -95,11 +101,6 @@ Papers under review
 <u>Li, J.</u> and <b>Stewart, J. R.</b>
 Learning cross-layer dependence structure in multilayer networks,
 (2025+), under review. <a href="https://jrstew.github.io/files/multi-layer.pdf">[Preprint]</a>
-</li>
-<li>
-<b>Stewart, J. R.</b> and Schweinberger, M.
-Pseudo-likelihood-based M-estimation of random graphs with dependent edges and parameter vectors of increasing dimension,  
-(2025+), under review. <a href="https://jrstew.github.io/files/pl.pdf">[Preprint]</a>
 </li>
 </ol>
 
