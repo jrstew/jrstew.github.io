@@ -16,7 +16,8 @@ Shubham Dhumal (2024-Present)<br>
 <i>2024 recipient of the Dean's Award for Doctoral Excellence</i>
 </li>
 <li>
-Guang Qiu (2024-Present)
+Guang Qiu (2024-Present)<br>
+<i>2025 recipient of the Yongyuan and Anna Li Presentation Award</i>
 </li>
 <li>
 Joel Carrol (2024-Present)<br>
