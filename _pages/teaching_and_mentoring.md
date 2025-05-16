@@ -36,7 +36,7 @@ First job: Amazon
 <li>
 Jairo Pe&#241;a Hidalgo (2020-2025)<br>
 <i>2024 Award for Outstanding Performance as a Teaching Assistant</i><br>
-First job: Visiting Assistant Professor, Wake Forest University 
+First job: TD Bank
 </li>
 
 </ul>
