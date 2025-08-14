@@ -16,6 +16,11 @@ Grant Support for Research
 ======
 <ul>
 <li>
+(Co-PI) 2025-2028. National Science Foundation (NSF-DMS), $175,000.<br>
+Statistics Program.<br>
+<i>Causal Inference under Interference: External Validity.</i>
+</li>
+<li>
 (PI) 2024-2027. National Science Foundation (NSF-SES), $300,000.<br>
 Methodology, Measurement, and Statistics (MMS) Program.<br> 
 <i>Generalized Latent Position Models for Network Data.</i> 
