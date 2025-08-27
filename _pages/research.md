@@ -13,8 +13,6 @@ for dependent data with complex structures.
 My primary focus to-date has been in the field of statistical network analysis, 
 where I have developed novel methodology and theory for high-dimensional statistical models of network data 
 with dependent edges.
-I am working on new projects and research directions 
-in profile monitoring and change-point detection in dynamical applications in medicine and biology.  
 
 
 Published papers and papers in press
