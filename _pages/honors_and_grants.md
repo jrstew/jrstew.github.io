@@ -52,7 +52,7 @@ at Florida State University for research and education.</i>
 <li>
 (Proposal Lead) 2024-2025. 
 Student Technology Fee Advisory Committee, Florida State University, $22,750.<br>
-<i>Funding to acquire technology to enhance the newly renovated spaces on the 5th floor of the Statistics building for the Department of Statistics at Florida State University, including the establishment of a new visualization room, zoom recording studio, and hybrid conference room.</i>
+<i>Funding to acquire technology to enhance the newly renovated spaces on the 5th floor of the Statistics building for the Department of Statistics at Florida State University, including the establishment of a new visualization room, lecture recording studio, and hybrid conference room.</i>
 </li>
 </ul>
 
