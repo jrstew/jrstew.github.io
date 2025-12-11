@@ -28,7 +28,7 @@ Pseudo-likelihood-based M-estimation of random graphs with dependent edges and p
 <li>
 <b>Stewart, J. R.</b>
 Rates of convergence and normal approximations for estimators of local dependence random graph models,
-<i>Bernoulli</i> (2025), accepted and in press. <a href="https://jrstew.github.io/files/bernoulli.pdf">[PDF]</a>
+<i>Bernoulli</i> 32 (1) (2026), 127-152. <a href="https://jrstew.github.io/files/bernoulli.pdf">[PDF]</a>
 </li>
 <li>
 <b>Stewart, J. R.</b>
