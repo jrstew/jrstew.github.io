@@ -61,6 +61,9 @@ Honors
 =========
 <ul>
 <li>
+<b>2025 Provost's Travel Award</b>, Florida State University
+</li>
+<li>
 <b>2024 Dean's Travel Award</b>, College of Arts and Science, Florida State University
 </li>
 <li>
