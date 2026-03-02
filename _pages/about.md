@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor in the Department of Statistics at Florida State University. 
+I am currently an Assistant Professor in the Department of Statistics at Florida State University 
+(Associate Professor with tenure effective August, 2026). 
 
 My research focuses on statistical models and theory for dependent data with applications to network data,
 and interests lying broadly in the field of statistical network analysis. 
@@ -23,7 +24,9 @@ and my software is available as an R package from CRAN.
 
 Employment
 ======
-* (Aug. 2020 - Present) Assistant Professor (tenure-track)<br> 
+* (Effective Aug. 2026) Associate Professor (with tenure)<br>
+Department of Statistics, Florida State University
+* (Aug. 2020 - Aug. 2026) Assistant Professor (tenure-track)<br> 
 Department of Statistics, Florida State University
 
 
